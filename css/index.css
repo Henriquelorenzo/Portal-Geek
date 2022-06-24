@@ -12,6 +12,10 @@ header{
     height: 250px;
 }
 
+.img_cabecalho{
+    width: 300px;
+}
+
 body{
     background-color: rgb(168, 168, 168);
     font-family: Arial, Helvetica, sans-serif;
@@ -19,7 +23,7 @@ body{
     color: black;
 }
 
-#se{
+#sessão{
     margin: 0 auto;
     background-color: gray;
     width: 95%;
